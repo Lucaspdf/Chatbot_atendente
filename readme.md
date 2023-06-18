@@ -1,0 +1,1 @@
+Este é um chatbot atendente que pode ser adaptado à qualquer empresa em qualquer cituação 
